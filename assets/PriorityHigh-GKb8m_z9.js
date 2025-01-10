@@ -1,0 +1,1 @@
+import{U as t,V as a,j as i}from"./index-CpZD2H93.js";var e={},u=a;Object.defineProperty(e,"__esModule",{value:!0});var o=e.default=void 0,s=u(t()),r=i,v=(0,s.default)([(0,r.jsx)("circle",{cx:"12",cy:"19",r:"2"},"0"),(0,r.jsx)("path",{d:"M10 3h4v12h-4z"},"1")],"PriorityHigh");o=e.default=v;export{o as d};

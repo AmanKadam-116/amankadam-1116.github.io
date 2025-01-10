@@ -1,0 +1,1 @@
+import{U as r,V as t,j as a}from"./index-CpZD2H93.js";var e={},o=t;Object.defineProperty(e,"__esModule",{value:!0});var u=e.default=void 0,i=o(r()),v=a,l=(0,i.default)((0,v.jsx)("path",{d:"M10 6 8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6-6-6z"}),"ChevronRightTwoTone");u=e.default=l;export{u as d};

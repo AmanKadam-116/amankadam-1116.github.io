@@ -1,0 +1,1 @@
+const t={"@media (min-width:600px)":{padding:"18px"}},e={mt:"-10px","@media (max-width:600px)":{mt:"-30px"}},a={mt:"-8px","@media (max-width:600px)":{mt:"-18px"}},m={height:"85px","@media (min-width: 600px)":{height:"85px"}},i={mt:"5px","@media (min-width: 600px)":{mt:"-10px"}};export{t as C,i as D,m as T,e as a,a as m};

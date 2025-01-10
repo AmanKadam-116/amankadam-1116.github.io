@@ -1,0 +1,6 @@
+import{s as x,ai as l,aj as d,r as t,j as e,c1 as h,af as j,ag as b,ah as T,ak as P,b9 as y}from"./index-CpZD2H93.js";const C=x(l)(({theme:r})=>`
+  background-color: ${r.palette.secondary.main};
+ `),S=x(d)(({theme:r})=>`
+  color: white;
+  font-weight: bold;
+ `),B=({columns:r,data:n,isLoading:c=!1,isPagination:g=!0})=>{const[o,w]=t.useState(0),[p,k]=t.useState(20);return e.jsx(h,{children:e.jsx(j,{children:e.jsxs(b,{children:[e.jsx(T,{children:e.jsx(C,{children:r.map(a=>t.createElement(S,{...a.headerCellProps,key:a.id},a.renderHeader?a.renderHeader():a.label))})}),e.jsx(P,{children:c?e.jsx(l,{children:e.jsx(d,{colSpan:r.length,align:"center",sx:{paddingTop:"2.5px",paddingBottom:"2.5px"},children:e.jsx(y,{})})}):n.length===0?e.jsx(l,{children:e.jsx(d,{colSpan:r.length,align:"center",sx:{paddingTop:"2.5px",paddingBottom:"2.5px"},children:"No data available"})}):g?n.slice(o*p,o*p+p).map((a,i)=>e.jsx(l,{children:r.map(s=>t.createElement(d,{...s.cellProps,key:s.id,sx:{paddingTop:"2.5px",paddingBottom:"2.5px"}},s.renderCell(a)))},i)):n.map((a,i)=>e.jsx(l,{children:r.map(s=>t.createElement(d,{...s.cellProps,key:s.id,sx:{paddingTop:"2.5px",paddingBottom:"2.5px"}},s.renderCell(a)))},i))})]})})})};export{B as D,C as S,S as a};

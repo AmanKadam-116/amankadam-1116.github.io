@@ -1,0 +1,1 @@
+import{U as a,V as r,j as t}from"./index-CpZD2H93.js";var e={},u=r;Object.defineProperty(e,"__esModule",{value:!0});var s=e.default=void 0,d=u(a()),o=t,i=(0,d.default)((0,o.jsx)("path",{d:"m12 8-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"}),"ExpandLess");s=e.default=i;export{s as d};

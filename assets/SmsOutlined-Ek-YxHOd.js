@@ -1,0 +1,1 @@
+import{U as t,V as r,j as a}from"./index-CpZD2H93.js";var e={},u=r;Object.defineProperty(e,"__esModule",{value:!0});var v=e.default=void 0,d=u(t()),i=a,l=(0,d.default)((0,i.jsx)("path",{d:"M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H5.17L4 17.17V4h16v12zM7 9h2v2H7zm8 0h2v2h-2zm-4 0h2v2h-2z"}),"SmsOutlined");v=e.default=l;export{v as d};

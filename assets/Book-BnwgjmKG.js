@@ -1,0 +1,1 @@
+import{U as r,V as a,j as t}from"./index-CpZD2H93.js";var e={},o=a;Object.defineProperty(e,"__esModule",{value:!0});var u=e.default=void 0,v=o(r()),d=t,i=(0,v.default)((0,d.jsx)("path",{d:"M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 4h5v8l-2.5-1.5L6 12V4z"}),"Book");u=e.default=i;export{u as d};
